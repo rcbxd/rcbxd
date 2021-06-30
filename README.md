@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-#### I'm a Node.js Developer from Dallas, Texas.
+#### I'm a Node.js Developer
 
-- ✨ UT Dallas 2025
 - 🏢 Full-time freelancer
 - ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.jsx`, `.py`, `.go`, `Dockerfile`, `.css`
 - 💅 Designed: [hirebarista.com](https://hirebarista.com), [IQsee](https://newdev.iqsee.ru)
