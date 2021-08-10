@@ -2,7 +2,7 @@
 
 #### I'm a Node.js Developer
 
-- 🏢 Full-time freelancer
+- 🏢 Part-time freelancer, full-time CS student
 - ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.jsx`, `.py`, `.go`, `Dockerfile`, `.css`
 - 💅 Designed: [hirebarista.com](https://hirebarista.com), [IQsee](https://newdev.iqsee.ru)
 - 🌱 Developed: [Rint Network](https://rint.network), Sota
