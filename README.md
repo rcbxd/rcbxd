@@ -3,9 +3,8 @@
 #### I'm a Node.js Developer
 
 - 🏢 Part-time freelancer, full-time CS student
+- 🌱 Also a designer, developer, sound engineer, and a guitar and drum player
 - ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.jsx`, `.py`, `.go`, `Dockerfile`, `.css`
-- 💅 Designed: [hirebarista.com](https://hirebarista.com), [IQsee](https://newdev.iqsee.ru)
-- 🌱 Developed: [Rint Network](https://rint.network), Sota
 - 💬 Talk to me about **node.js**, **web design**, **freelancing**, **public speaking**, **music**
 - ⚡️ Reach me: [Telegram](https://t.me/rcbxd), [Website](https://rcbxd.dev)
 
