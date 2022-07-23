@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I'm a Node.js Developer
+#### I'm a backend developer specialized in Node.js
 
-- 🏢 Part-time freelancer, full-time CS student
-- 🌱 Also a designer, sound engineer, and guitar player
-- ⚙️ I use daily: `.js`, `.ts`, `.vue`, `.jsx`, `.py`, `.go`, `Dockerfile`, `.css`
-- 💬 Talk to me about **node.js**, **web design**, **freelancing**, **music**
+- 🏢Full-time CS student and freelancer
+- 🌱 Also a photographer, sound engineer, and guitar player
+- ⚙️ I specialize in: `.js`, `.py`, `.go`, `Dockerfile`, `.css`, `.java`
 - ⚡️ Reach me: [Telegram](https://t.me/rynjoo), [Website](https://rcbxd.dev)
+- 🎵 My music [LinkTree](https://linktr.ee/rynjoo)
