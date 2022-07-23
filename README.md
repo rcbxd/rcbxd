@@ -6,4 +6,4 @@
 - 🌱 Also a photographer, sound engineer, and guitar player
 - ⚙️ I specialize in: `.js`, `.py`, `.go`, `Dockerfile`, `.css`, `.java`
 - ⚡️ Reach me: [Telegram](https://t.me/rynjoo), [Website](https://rcbxd.dev)
-- 🎵 My music [LinkTree](https://linktr.ee/rynjoo)
+- 🎵 My music: [LinkTree](https://linktr.ee/rynjoo)
